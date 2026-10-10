@@ -1,0 +1,6 @@
+{
+  "name": "If U Watch Anime - Manga Quiz",
+  "description": "Late-night manga magazine anime and character quiz powered by AniList.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
